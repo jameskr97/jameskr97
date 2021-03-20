@@ -11,7 +11,6 @@
     <br>
     <a href="https://www.jetbrains.com/"><img src="https://img.shields.io/static/v1?label=IDE&message=CLion,%20PyCharm,%20DataGrip&logo=jetbrains&color=2B2B2B"></a>
     <a href="https://www.postgresql.org/"><img src="https://img.shields.io/static/v1?label=Database&message=PostgreSQL&logo=postgresql&color=336791"></a>
-    <a href="https://www.mazdausa.com/"><img src="https://img.shields.io/static/v1?label=Car&message=Mazda 3&logo=mazda&color=000"></a>
 </p>
 
 <!-- Zero width character is used to put extra blank lines before and after code -->
