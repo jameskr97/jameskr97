@@ -5,7 +5,7 @@
     <a href="#"><img src="https://img.shields.io/static/v1?label=Discord&message=Hidden%239999&color=7289da&logo=discord"></a>
     <a href="#"><img src="https://badges.pufler.dev/visits/jameskr97/jameskr97?label=Views&logo=Github&color=blue"></a>
     <br>
-    <a href="#"><img src="https://img.shields.io/static/v1?label=Desktop&message=Windows%2010&logo=windows&color=00adef"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=Desktop&message=Windows%2011&logo=windows&color=00adef"></a>
     <a href="#"><img src="https://img.shields.io/static/v1?label=Server&message=Debian%20Buster&logo=debian&color=d70a53"></a>
     <a href="#"><img src="https://img.shields.io/static/v1?label=Laptop&message=macOS%20Catalina&logo=apple&color=111"></a>
     <br>
