@@ -1,7 +1,7 @@
 ### Hello there 🤖
 
 <p>
-    <a href="#"><img src="https://img.shields.io/static/v1?label=Human%20Software&message=v2.3.5&color=blue&logo=actigraph"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=Human%20Software&message=v2.4.1&color=blue&logo=actigraph"></a>
     <a href="#"><img src="https://img.shields.io/static/v1?label=Discord&message=Hidden%239999&color=7289da&logo=discord"></a>
     <a href="#"><img src="https://badges.pufler.dev/visits/jameskr97/jameskr97?label=Views&logo=Github&color=blue"></a>
     <br>
