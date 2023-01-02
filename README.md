@@ -1,9 +1,9 @@
 ### Hello there 🤖
 
 <p>
-    <a href="#"><img src="https://img.shields.io/static/v1?label=Human%20Software&message=v2.4.1&color=blue&logo=actigraph"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=Human%20Software&message=v2.5.2&color=blue&logo=actigraph"></a>
     <a href="#"><img src="https://img.shields.io/static/v1?label=Discord&message=Hidden%239999&color=7289da&logo=discord"></a>
-    <a href="#"><img src="https://badges.pufler.dev/visits/jameskr97/jameskr97?label=Views&logo=Github&color=blue"></a>
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=jameskr97&label=Profile+Views&color=blue"></a>
     <br>
     <a href="#"><img src="https://img.shields.io/static/v1?label=Desktop&message=Windows%2011&logo=windows&color=00adef"></a>
     <a href="#"><img src="https://img.shields.io/static/v1?label=Server&message=Debian%20Buster&logo=debian&color=d70a53"></a>
@@ -26,11 +26,10 @@ struct Human {
     std::string name            {"James 🦾"};
     std::string occupation      {"Ambulance Driver 🚑"};
     std::string location        {"35.0333°N, 138.888°E 📍"};
-    std::string hobbies[2]      {"Rock Climbing 🧗", "Debugging 🐞"};
+    std::string hobbies[3]      {"Rock Climbing 🧗", "Debugging 🐞", "3D Printing 🔧"};
 
     std::string currentProject  {"Etterna ⬇️ - github.com/etternagame/etterna"};
-    std::string needHelpWith    {"Chinese and Japanese practice! 📓"};
-    std::string nowLearning     {"The art of using a gym more than occasionally 💪"};
+    std::string needHelpWith    {"Studying Korean! 📓"};
     std::string intro           {"Hello!👋 I'm James. I like to write code."
                                  "Feel free to contact me. See you soon!"};
 };
