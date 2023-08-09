@@ -29,9 +29,9 @@ struct Human {
     std::string hobbies[3]      {"Rock Climbing 🧗", "Debugging 🐞", "3D Printing 🔧"};
 
     std::string currentProject  {"Etterna ⬇️ - github.com/etternagame/etterna"};
-    std::string needHelpWith    {"Studying Korean! 📓"};
+    std::string needHelpWith    {"Studying Mandarin and Korean! 📓"};
     std::string intro           {"Hello!👋 I'm James. I like to write code."
-                                 "Feel free to contact me. See you soon!"};
+                                 "Feel free to contact me. Have a nice day!"};
 };
 ​
 ```
