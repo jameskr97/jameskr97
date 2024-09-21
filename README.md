@@ -7,7 +7,7 @@
     <br>
     <a href="#"><img src="https://img.shields.io/static/v1?label=Desktop&message=Windows%2011&logo=windows&color=00adef"></a>
     <a href="#"><img src="https://img.shields.io/static/v1?label=Server&message=Debian%20Buster&logo=debian&color=d70a53"></a>
-    <a href="#"><img src="https://img.shields.io/static/v1?label=Laptop&message=macOS%20Catalina&logo=apple&color=111"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=Laptop&message=macOS%20SSequoia&logo=apple&color=111"></a>
     <br>
     <a href="https://www.jetbrains.com/"><img src="https://img.shields.io/static/v1?label=IDE&message=CLion,%20PyCharm,%20DataGrip&logo=jetbrains&color=2B2B2B"></a>
     <a href="https://www.postgresql.org/"><img src="https://img.shields.io/static/v1?label=Database&message=PostgreSQL&logo=postgresql&color=336791"></a>
