@@ -1,7 +1,7 @@
 ### Hello there 🤖
 
 <p>
-    <a href="#"><img src="https://img.shields.io/static/v1?label=Human%20Software&message=v2.5.2&color=blue&logo=actigraph"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=Human%20Software&message=v2.6.10&color=blue&logo=actigraph"></a>
     <a href="#"><img src="https://img.shields.io/static/v1?label=Discord&message=Hidden%239999&color=7289da&logo=discord"></a>
     <a href="#"><img src="https://komarev.com/ghpvc/?username=jameskr97&label=Profile+Views&color=blue"></a>
     <br>
@@ -28,8 +28,8 @@ struct Human {
     std::string location        {"35.0333°N, 138.888°E 📍"};
     std::string hobbies[3]      {"Rock Climbing 🧗", "Debugging 🐞", "3D Printing 🔧"};
 
-    std::string currentProject  {"Etterna ⬇️ - github.com/etternagame/etterna"};
-    std::string needHelpWith    {"Studying Mandarin and Korean! 📓"};
+    std::string currentProjects {"ScoreTracker", "Etterna ⬇️ - github.com/etternagame/etterna"};
+    std::string needHelpWith    {"Studying Mandarin and Japanese! 📓"};
     std::string intro           {"Hello!👋 I'm James. I like to write code."
                                  "Feel free to contact me. Have a nice day!"};
 };
